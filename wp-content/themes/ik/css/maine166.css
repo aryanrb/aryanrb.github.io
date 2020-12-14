@@ -1081,7 +1081,7 @@ html * {
 
 #letters span {
     opacity: 0;
-    font-size: 590px;
+    font-size: 430px;
     line-height: 1.2;
     position: absolute;
     display: -webkit-inline-box;
@@ -1282,7 +1282,7 @@ html * {
     }
 
     #letters span {
-        font-size: 825px
+        font-size: 720px
     }
 
     .picker-wrapper {
